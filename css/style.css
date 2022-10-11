@@ -9,8 +9,10 @@ body{
   background-color: #f6f8f9;
 }
 
+/* inizio header */
 header{
   background-color: white;
+  margin-bottom: 2rem;
 }
 
 header img{
@@ -23,3 +25,42 @@ header h1{
   vertical-align: top;
   padding-top: 2rem;
 }
+/* fine header */
+
+/* inizio main */
+main{
+  width: 42rem;
+  background-color: white;
+  margin: 0 auto;
+  padding: 1rem 2rem;
+}
+
+/* inizo nav */
+nav{
+  border-bottom: 1px solid #f6f8f9;
+}
+
+nav button, nav input{
+  padding: .4rem;
+  border-radius: 5px;
+}
+
+nav button {
+  background-color: #47adf1;
+  color: white;
+  border: none;
+}
+
+nav input{
+  border: 1px solid #ccd2d6;
+  width: 6rem;
+}
+
+input::placeholder{
+  color: #ccd2d6;
+}
+
+/* finish nav */
+
+
+
