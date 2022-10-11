@@ -23,7 +23,7 @@ header h1{
   display: inline-block;
   font-size: 3rem;
   vertical-align: top;
-  padding-top: 1.2rem;
+  line-height: 6rem;
 }
 /* end header */
 
@@ -84,7 +84,8 @@ span.check, span.cross{
   border: 2px solid;
   border-radius: 100%;
   padding: 0 0.15rem;
-    font-size: 0.6rem;
+  font-size: 0.6rem;
+  
 }
 
 span.check{
