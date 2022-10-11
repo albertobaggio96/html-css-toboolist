@@ -9,7 +9,7 @@ body{
   background-color: #f6f8f9;
 }
 
-/* inizio header */
+/* strat header */
 header{
   background-color: white;
   margin-bottom: 2rem;
@@ -25,19 +25,20 @@ header h1{
   vertical-align: top;
   padding-top: 2rem;
 }
-/* fine header */
+/* end header */
 
-/* inizio main */
+/* start main */
 main{
   width: 42rem;
   background-color: white;
   margin: 0 auto;
-  padding: 1rem 2rem;
+  padding: 1rem 0;
 }
 
-/* inizo nav */
+/* start nav */
 nav{
-  border-bottom: 1px solid #f6f8f9;
+  border-bottom: 2px solid #f6f8f9;
+  padding: 0 2rem 0.5rem 2rem;
 }
 
 nav button, nav input{
@@ -60,7 +61,9 @@ input::placeholder{
   color: #ccd2d6;
 }
 
-/* finish nav */
+/* end nav */
+
+
 
 
 
