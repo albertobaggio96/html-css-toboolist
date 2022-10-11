@@ -63,6 +63,15 @@ input::placeholder{
 
 /* end nav */
 
+section{
+  margin: 2rem;
+}
+
+section h2 span{
+  vertical-align: -webkit-baseline-middle;
+  font-size: 2rem;
+}
+/* start New Task */
 
 
 
